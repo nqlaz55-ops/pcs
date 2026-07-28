@@ -1,1 +1,28 @@
-test
+{
+  "schema": 3,
+  "app": "Free Subtitles Studio",
+  "app_id": "com.quynk.freesubtitlesstudio",
+  "channel": "stable",
+  "minimum_updater_schema": 3,
+  "artifact_policy": {
+    "packaged_preference": [
+      "protected_patch",
+      "installer"
+    ],
+    "development_preference": [],
+    "fallback": "installer"
+  },
+  "latest_release": {
+    "id": "hotfix-ag",
+    "sequence": 33,
+    "display_version": "0.0.1",
+    "published_at": "2026-07-28T00:00:00+07:00",
+    "mandatory": false,
+    "changelog": [
+      "Tách riêng source patch nội bộ và protected update công khai.",
+      "Bản đã cài ưu tiên protected patch; tự chuyển sang installer khi không tương thích hoặc cài đặt hỏng.",
+      "Sửa TTS đọc dấu câu hoặc xuống dòng thành từ phẩy trong mọi workspace."
+    ]
+  },
+  "artifacts": {}
+}
