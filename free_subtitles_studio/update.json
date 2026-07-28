@@ -1,0 +1,20 @@
+"artifacts": {
+  "protected_patch": {
+    "kind": "protected_patch",
+    "filename": "Free_Subtitles_Studio_PROTECTED_PATCH_0.0.1_HOTFIX_AH.zip",
+    "url": "LINK_TẢI_TRỰC_TIẾP_PATCH",
+    "sha256": "SHA256_THẬT",
+    "size": 12345678,
+    "from_sequence_min": 33,
+    "from_sequence_max": 33,
+    "to_sequence": 34,
+    "updater_schema_min": 3
+  },
+  "installer": {
+    "kind": "protected_installer",
+    "filename": "Free-Subtitles-Studio-0.0.1-Protected-x64.exe",
+    "url": "LINK_TẢI_TRỰC_TIẾP_INSTALLER",
+    "sha256": "SHA256_THẬT",
+    "size": 123456789
+  }
+}
