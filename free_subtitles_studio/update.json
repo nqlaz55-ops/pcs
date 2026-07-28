@@ -1,20 +1,26 @@
-"artifacts": {
+{
+  "schema": 4,
+  "app": "Free Subtitles Studio",
+  "channel": "stable",
+  "latest_release": {
+    "id": "hotfix-ai",
+    "sequence": 35,
+    "display_version": "0.0.1",
+    "published_at": "2026-07-28T00:00:00+07:00",
+    "mandatory": false,
+    "changelog": [
+      "Nội dung thay đổi"
+    ]
+  },
   "protected_patch": {
-    "kind": "protected_patch",
-    "filename": "Free_Subtitles_Studio_PROTECTED_PATCH_0.0.1_HOTFIX_AH.zip",
-    "url": "LINK_TẢI_TRỰC_TIẾP_PATCH",
-    "sha256": "SHA256_THẬT",
-    "size": 12345678,
-    "from_sequence_min": 33,
-    "from_sequence_max": 33,
-    "to_sequence": 34,
-    "updater_schema_min": 3
+    "url": "URL_HTTPS_PATCH",
+    "filename": "Free_Subtitles_Studio_PROTECTED_PATCH_0.0.1_HOTFIX_AI.zip",
+    "from_sequence_min": 34,
+    "from_sequence_max": 34,
+    "to_sequence": 35
   },
   "installer": {
-    "kind": "protected_installer",
-    "filename": "Free-Subtitles-Studio-0.0.1-Protected-x64.exe",
-    "url": "LINK_TẢI_TRỰC_TIẾP_INSTALLER",
-    "sha256": "SHA256_THẬT",
-    "size": 123456789
+    "url": "https://perfectivvn-my.sharepoint.com/:u:/g/personal/quynguyenk_per-fectiv_com/IQDQ5FSG0yq5QbLgSeAwAcdlAd54lfXUUrkvW9gazCwRMo0?e=Qvrtlb&download=1",
+    "filename": "Free-Subtitles-Studio-0.0.1-Protected-Setup-x64.exe"
   }
 }
